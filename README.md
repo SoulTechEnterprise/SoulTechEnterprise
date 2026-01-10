@@ -1,10 +1,12 @@
 # Soul Tech
 
+🌐 Site institucional: https://soultech.agency/
+
 Desenvolvemos sistemas internos, plataformas digitais e automações que organizam operações e sustentam o crescimento de empresas.
 
 ## Quem somos
 
-A Soul Tech cria soluções digitais sob medida para empresas e startups orientadas a produto que não são plenamente atendidas por softwares prontos.
+A Soul Tech é uma startup de tecnologia que cria soluções digitais sob medida para empresas e startups orientadas a produto que não são plenamente atendidas por softwares prontos.
 
 Atuamos na transformação de processos manuais e operações fragmentadas em sistemas escaláveis, seguros e orientados à tomada de decisão, com foco em performance, experiência do usuário e evolução contínua.
 
@@ -52,4 +54,5 @@ Empresa incubada no **Tec Unimar**, com apoio da **Universidade de Marília (UNI
 
 ## Contato
 
-- E-mail: soultech215@gmail.com
+- 🌐 Site: https://soultech.agency/
+- 📧 E-mail: soultech215@gmail.com
